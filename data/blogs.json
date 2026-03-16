@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "Anthropic Blog",
+    "siteUrl": "https://www.anthropic.com/news",
+    "rssUrl": "https://www.anthropic.com/rss.xml"
+  },
+  {
+    "id": 2,
+    "name": "OpenAI Blog",
+    "siteUrl": "https://openai.com/blog",
+    "rssUrl": "https://openai.com/blog/rss.xml"
+  },
+  {
+    "id": 3,
+    "name": "Google AI Blog",
+    "siteUrl": "https://blog.google/technology/ai/",
+    "rssUrl": "https://blog.google/technology/ai/rss/"
+  },
+  {
+    "id": 4,
+    "name": "DeepMind Blog",
+    "siteUrl": "https://deepmind.google/discover/blog/",
+    "rssUrl": "https://deepmind.google/blog/rss.xml"
+  },
+  {
+    "id": 5,
+    "name": "Meta AI Blog",
+    "siteUrl": "https://ai.meta.com/blog/",
+    "rssUrl": "https://ai.meta.com/blog/rss/"
+  },
+  {
+    "id": 6,
+    "name": "Microsoft AI Blog",
+    "siteUrl": "https://blogs.microsoft.com/ai/",
+    "rssUrl": "https://blogs.microsoft.com/ai/feed/"
+  },
+  {
+    "id": 7,
+    "name": "NVIDIA AI Blog",
+    "siteUrl": "https://blogs.nvidia.com/blog/category/deep-learning/",
+    "rssUrl": "https://blogs.nvidia.com/blog/category/deep-learning/feed/"
+  },
+  {
+    "id": 8,
+    "name": "Hugging Face Blog",
+    "siteUrl": "https://huggingface.co/blog",
+    "rssUrl": "https://huggingface.co/blog/feed.xml"
+  },
+  {
+    "id": 9,
+    "name": "LangChain Blog",
+    "siteUrl": "https://blog.langchain.dev/",
+    "rssUrl": "https://blog.langchain.dev/rss/"
+  },
+  {
+    "id": 10,
+    "name": "Cohere Blog",
+    "siteUrl": "https://cohere.com/blog",
+    "rssUrl": "https://cohere.com/blog/rss.xml"
+  },
+  {
+    "id": 11,
+    "name": "Stability AI Blog",
+    "siteUrl": "https://stability.ai/news",
+    "rssUrl": null
+  },
+  {
+    "id": 12,
+    "name": "Mistral AI Blog",
+    "siteUrl": "https://mistral.ai/news/",
+    "rssUrl": null
+  },
+  {
+    "id": 13,
+    "name": "AI21 Labs Blog",
+    "siteUrl": "https://www.ai21.com/blog",
+    "rssUrl": null
+  },
+  {
+    "id": 14,
+    "name": "Weights & Biases Blog",
+    "siteUrl": "https://wandb.ai/fully-connected",
+    "rssUrl": "https://wandb.ai/fully-connected/rss.xml"
+  },
+  {
+    "id": 15,
+    "name": "Replicate Blog",
+    "siteUrl": "https://replicate.com/blog",
+    "rssUrl": "https://replicate.com/blog/rss.xml"
+  },
+  {
+    "id": 16,
+    "name": "Together AI Blog",
+    "siteUrl": "https://www.together.ai/blog",
+    "rssUrl": null
+  },
+  {
+    "id": 17,
+    "name": "Anyscale Blog",
+    "siteUrl": "https://www.anyscale.com/blog",
+    "rssUrl": "https://www.anyscale.com/blog/rss.xml"
+  },
+  {
+    "id": 18,
+    "name": "Lightning AI Blog",
+    "siteUrl": "https://lightning.ai/pages/blog/",
+    "rssUrl": null
+  },
+  {
+    "id": 19,
+    "name": "Pinecone Blog",
+    "siteUrl": "https://www.pinecone.io/blog/",
+    "rssUrl": "https://www.pinecone.io/blog/rss.xml"
+  },
+  {
+    "id": 20,
+    "name": "Weaviate Blog",
+    "siteUrl": "https://weaviate.io/blog",
+    "rssUrl": "https://weaviate.io/blog/rss.xml"
+  },
+  {
+    "id": 21,
+    "name": "Qdrant Blog",
+    "siteUrl": "https://qdrant.tech/blog/",
+    "rssUrl": "https://qdrant.tech/blog/rss.xml"
+  },
+  {
+    "id": 22,
+    "name": "Milvus Blog",
+    "siteUrl": "https://milvus.io/blog",
+    "rssUrl": "https://milvus.io/blog/rss.xml"
+  },
+  {
+    "id": 23,
+    "name": "ChromaDB Blog",
+    "siteUrl": "https://www.trychroma.com/blog",
+    "rssUrl": null
+  },
+  {
+    "id": 24,
+    "name": "LlamaIndex Blog",
+    "siteUrl": "https://www.llamaindex.ai/blog",
+    "rssUrl": "https://www.llamaindex.ai/blog/rss.xml"
+  },
+  {
+    "id": 25,
+    "name": "Scale AI Blog",
+    "siteUrl": "https://scale.com/blog",
+    "rssUrl": null
+  },
+  {
+    "id": 26,
+    "name": "Vercel AI Blog",
+    "siteUrl": "https://vercel.com/blog",
+    "rssUrl": "https://vercel.com/atom"
+  },
+  {
+    "id": 27,
+    "name": "a]16z AI Blog",
+    "siteUrl": "https://a16z.com/ai/",
+    "rssUrl": null
+  },
+  {
+    "id": 28,
+    "name": "Sequoia AI Blog",
+    "siteUrl": "https://www.sequoiacap.com/build/",
+    "rssUrl": null
+  },
+  {
+    "id": 29,
+    "name": "MIT Technology Review AI",
+    "siteUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
+    "rssUrl": "https://www.technologyreview.com/topic/artificial-intelligence/feed"
+  },
+  {
+    "id": 30,
+    "name": "The Gradient",
+    "siteUrl": "https://thegradient.pub/",
+    "rssUrl": "https://thegradient.pub/rss/"
+  },
+  {
+    "id": 31,
+    "name": "Towards Data Science",
+    "siteUrl": "https://towardsdatascience.com/",
+    "rssUrl": "https://towardsdatascience.com/feed"
+  },
+  {
+    "id": 32,
+    "name": "Machine Learning Mastery",
+    "siteUrl": "https://machinelearningmastery.com/blog/",
+    "rssUrl": "https://machinelearningmastery.com/feed/"
+  },
+  {
+    "id": 33,
+    "name": "Papers With Code",
+    "siteUrl": "https://paperswithcode.com/",
+    "rssUrl": null
+  },
+  {
+    "id": 34,
+    "name": "Distill.pub",
+    "siteUrl": "https://distill.pub/",
+    "rssUrl": "https://distill.pub/rss.xml"
+  },
+  {
+    "id": 35,
+    "name": "Jay Alammar Blog",
+    "siteUrl": "https://jalammar.github.io/",
+    "rssUrl": "https://jalammar.github.io/feed.xml"
+  },
+  {
+    "id": 36,
+    "name": "Lil'Log (Lilian Weng)",
+    "siteUrl": "https://lilianweng.github.io/",
+    "rssUrl": "https://lilianweng.github.io/index.xml"
+  },
+  {
+    "id": 37,
+    "name": "Sebastian Ruder Blog",
+    "siteUrl": "https://www.ruder.io/",
+    "rssUrl": "https://www.ruder.io/rss/index.rss"
+  },
+  {
+    "id": 38,
+    "name": "Chip Huyen Blog",
+    "siteUrl": "https://huyenchip.com/blog/",
+    "rssUrl": "https://huyenchip.com/feed.xml"
+  },
+  {
+    "id": 39,
+    "name": "Eugene Yan Blog",
+    "siteUrl": "https://eugeneyan.com/",
+    "rssUrl": "https://eugeneyan.com/rss/"
+  },
+  {
+    "id": 40,
+    "name": "Simon Willison Blog",
+    "siteUrl": "https://simonwillison.net/",
+    "rssUrl": "https://simonwillison.net/atom/everything/"
+  }
+]

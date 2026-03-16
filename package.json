@@ -1,0 +1,23 @@
+{
+  "name": "tech-digest-bot",
+  "version": "1.0.0",
+  "description": "AI系テックブログ収集・要約・Gチャット自動投稿システム",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "check-rss": "tsx scripts/check-rss.ts"
+  },
+  "dependencies": {
+    "next": "^16.1.6",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "@types/react": "^19.2.4",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}
