@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Anthropic Blog",
     "siteUrl": "https://www.anthropic.com/news",
-    "rssUrl": "https://www.anthropic.com/rss.xml"
+    "rssUrl": null
   },
   {
     "id": 2,
@@ -27,7 +27,7 @@
     "id": 5,
     "name": "Meta AI Blog",
     "siteUrl": "https://ai.meta.com/blog/",
-    "rssUrl": "https://ai.meta.com/blog/rss/"
+    "rssUrl": null
   },
   {
     "id": 6,
@@ -57,7 +57,7 @@
     "id": 10,
     "name": "Cohere Blog",
     "siteUrl": "https://cohere.com/blog",
-    "rssUrl": "https://cohere.com/blog/rss.xml"
+    "rssUrl": null
   },
   {
     "id": 11,
@@ -87,7 +87,7 @@
     "id": 15,
     "name": "Replicate Blog",
     "siteUrl": "https://replicate.com/blog",
-    "rssUrl": "https://replicate.com/blog/rss.xml"
+    "rssUrl": null
   },
   {
     "id": 16,
@@ -99,7 +99,7 @@
     "id": 17,
     "name": "Anyscale Blog",
     "siteUrl": "https://www.anyscale.com/blog",
-    "rssUrl": "https://www.anyscale.com/blog/rss.xml"
+    "rssUrl": null
   },
   {
     "id": 18,
@@ -111,7 +111,7 @@
     "id": 19,
     "name": "Pinecone Blog",
     "siteUrl": "https://www.pinecone.io/blog/",
-    "rssUrl": "https://www.pinecone.io/blog/rss.xml"
+    "rssUrl": null
   },
   {
     "id": 20,
@@ -123,13 +123,13 @@
     "id": 21,
     "name": "Qdrant Blog",
     "siteUrl": "https://qdrant.tech/blog/",
-    "rssUrl": "https://qdrant.tech/blog/rss.xml"
+    "rssUrl": null
   },
   {
     "id": 22,
     "name": "Milvus Blog",
     "siteUrl": "https://milvus.io/blog",
-    "rssUrl": "https://milvus.io/blog/rss.xml"
+    "rssUrl": null
   },
   {
     "id": 23,
@@ -141,7 +141,7 @@
     "id": 24,
     "name": "LlamaIndex Blog",
     "siteUrl": "https://www.llamaindex.ai/blog",
-    "rssUrl": "https://www.llamaindex.ai/blog/rss.xml"
+    "rssUrl": null
   },
   {
     "id": 25,
@@ -153,11 +153,11 @@
     "id": 26,
     "name": "Vercel AI Blog",
     "siteUrl": "https://vercel.com/blog",
-    "rssUrl": "https://vercel.com/atom"
+    "rssUrl": null
   },
   {
     "id": 27,
-    "name": "a]16z AI Blog",
+    "name": "a16z AI Blog",
     "siteUrl": "https://a16z.com/ai/",
     "rssUrl": null
   },
@@ -219,7 +219,7 @@
     "id": 37,
     "name": "Sebastian Ruder Blog",
     "siteUrl": "https://www.ruder.io/",
-    "rssUrl": "https://www.ruder.io/rss/index.rss"
+    "rssUrl": null
   },
   {
     "id": 38,
