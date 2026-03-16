@@ -238,5 +238,12 @@
     "name": "Simon Willison Blog",
     "siteUrl": "https://simonwillison.net/",
     "rssUrl": "https://simonwillison.net/atom/everything/"
+  },
+  {
+    "id": 41,
+    "name": "はてなブックマーク IT",
+    "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
+    "rssUrl": "https://b.hatena.ne.jp/hotentry/it.rss",
+    "filter": true
   }
 ]

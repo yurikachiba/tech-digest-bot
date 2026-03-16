@@ -11,6 +11,7 @@ type Blog = {
   name: string;
   siteUrl: string;
   rssUrl: string | null;
+  filter?: boolean;
 };
 
 type ArticleWithBlog = RssArticle & { blogName: string };
@@ -40,7 +41,11 @@ export async function POST(request: NextRequest) {
     }
 
     try {
-      const articles = await fetchRecentArticles(blog.rssUrl);
+      const articles = await fetchRecentArticles(
+        blog.rssUrl,
+        24,
+        blog.filter || false
+      );
       for (const article of articles) {
         allArticles.push({ ...article, blogName: blog.name });
       }
